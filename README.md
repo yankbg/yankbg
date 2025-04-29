@@ -1,6 +1,6 @@
 # 👋 Hi, I'm yan kbg
 
-🎓 I'm a passionate Information Technology student based in Uganda, exploring the intersection of mobile development, web technologies, and clean code design. Currently learning Python and advancing my skills in Android app development.
+🎓 I'm a passionate Information Technology student, exploring the intersection of mobile development, web technologies. Currently learning Python and advancing my skills in Android app development.
 
 ## 💡 What I Do
 - 📱 Mobile App Development (Java, Android Studio)
